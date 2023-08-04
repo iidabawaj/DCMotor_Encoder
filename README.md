@@ -15,6 +15,7 @@ Use only one of the two channels of the L293D driver as there is only one motor 
 The Arduino pins involved in motor control are 5 and 6, both PWM.
 The encoder must be connected to pins 2 and 3, which by default for Arduino Uno are of the interrupts type, i.e. they can read the signals coming from an encoder, or other digital signal, independently of the loop().
 
+
   
 
   
